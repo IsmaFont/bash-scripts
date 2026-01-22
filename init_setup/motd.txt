@@ -1,0 +1,26 @@
+
+    +---------------------------------------------------------------------+
+    ¦                                                                     ¦
+    ¦  Use of this network is restricted to authorized users only. User   ¦
+    ¦  activity may be monitored and/or recorded. Anyone using this       ¦
+    ¦  network expressly consents to such monitoring and/or recording.    ¦
+    ¦                                                                     ¦
+    ¦  BE ADVISED: if possible criminal activity is detected, these       ¦
+    ¦  records, along with certain personal information, may be provided  ¦
+    ¦  to law enforcement officials.                                      ¦
+    ¦                                                                     ¦
+    +---------------------------------------------------------------------+
+
+
+
+################################################################
+ Server Name:          jmpcap101.mgmt.cpxmx.local
+ Host node:            CNODE3
+ Guest ID:             101
+ HWinfo:               1 vCPU(s), 2 core(s), 2 GiB mem.
+
+ Sys Admin Support:    0303-0456
+ OS vendor:            AlmaLinux 8
+ Environment:          System
+                               bld date: 2024-06-29 06:29:36
+################################################################

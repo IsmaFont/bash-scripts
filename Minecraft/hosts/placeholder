@@ -1,0 +1,24 @@
+#!/bin/bash
+########################
+#   Global Variables   #
+#----------------------#
+#  Host: placeholder   #
+#  Version: 1.12.2     #
+#  bld date: today     #
+########################
+
+
+#### B A C K U P ####
+# Backup prefix
+BUPNAME='placeholder'
+# Backups path
+BUPSPATH='/home/minecraft/backups'
+
+#### J V M  F L A G S ####
+JVMVER='java-8-openjdk-amd64'
+MEMALOC='6'
+SRVPATH='/home/minecraft/placeholder'
+
+#### S C R E E N  F L A G S ####
+SCRNAME='placeholder'
+SRVNAME='Placeholder'
